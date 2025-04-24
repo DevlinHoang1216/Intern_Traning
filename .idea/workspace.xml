@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c005b8ef-1fc0-4535-a1d8-de1848197bc3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/main/java/fpt/onTapTheoDe/HashMapDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/main/java/fpt/onTapTheoDe/HashSetDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/main/java/fpt/onTapTheoDe/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/main/java/fpt/onTapTheoDe/SapXepDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/main/java/fpt/onTapTheoDe/SoSanhDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/main/java/fpt/onTapTheoDe/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/target/classes/fpt/onTapTheoDe/HashMapDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/target/classes/fpt/onTapTheoDe/HashSetDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/target/classes/fpt/onTapTheoDe/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/target/classes/fpt/onTapTheoDe/SapXepDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/target/classes/fpt/onTapTheoDe/SoSanhDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/target/classes/fpt/onTapTheoDe/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/main/java/proton/traning/AgeClassification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/main/java/proton/traning/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/main/java/proton/traning/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/target/classes/proton/traning/AgeClassification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/target/classes/proton/traning/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/target/classes/proton/traning/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fpt/onThiChinhThuc/AESEncryption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fpt/onThiChinhThuc/DigitalSignature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fpt/onThiChinhThuc/HashExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fpt/onThiChinhThuc/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fpt/onThiChinhThuc/RSAEncryption.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "DevlinHoang1216"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DevlinHoang1216/Intern_Traning.git",
+    "accountId": "7c2e6017-9dcf-47af-b9c7-f09efe94d75f"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2wACc0KgqGlSwv3kynxwldglVrx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AESEncryption.executor": "Run",
+    "Application.DigitalSignature.executor": "Run",
+    "Application.HashExample.executor": "Run",
+    "Application.RSAEncryption.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c005b8ef-1fc0-4535-a1d8-de1848197bc3" name="Changes" comment="" />
+      <created>1745475067980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745475067980</updated>
+      <workItem from="1745475069747" duration="1094000" />
+      <workItem from="1745476479751" duration="3597000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
