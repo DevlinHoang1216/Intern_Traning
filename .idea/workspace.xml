@@ -5,38 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c005b8ef-1fc0-4535-a1d8-de1848197bc3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/src/main/java/fpt/onTapTheoDe/HashMapDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/src/main/java/fpt/onTapTheoDe/HashSetDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/src/main/java/fpt/onTapTheoDe/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/src/main/java/fpt/onTapTheoDe/SapXepDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/src/main/java/fpt/onTapTheoDe/SoSanhDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/src/main/java/fpt/onTapTheoDe/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/target/classes/fpt/onTapTheoDe/HashMapDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/target/classes/fpt/onTapTheoDe/HashSetDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/target/classes/fpt/onTapTheoDe/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/target/classes/fpt/onTapTheoDe/SapXepDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/target/classes/fpt/onTapTheoDe/SoSanhDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/target/classes/fpt/onTapTheoDe/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCore/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCore/src/main/java/proton/traning/AgeClassification.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCore/src/main/java/proton/traning/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCore/src/main/java/proton/traning/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCore/target/classes/proton/traning/AgeClassification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCore/target/classes/proton/traning/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCore/target/classes/proton/traning/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JWT-Training/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JWT-Training/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JWT-Training/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JWT-Training/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JWT-Training/src/main/java/fpt/onThiChinhThuc/AESEncryption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JWT-Training/src/main/java/fpt/onThiChinhThuc/DigitalSignature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JWT-Training/src/main/java/fpt/onThiChinhThuc/HashExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JWT-Training/src/main/java/fpt/onThiChinhThuc/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JWT-Training/src/main/java/fpt/onThiChinhThuc/RSAEncryption.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fpt/onThiChinhThuc/AESEncryption.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fpt/onThiChinhThuc/DigitalSignature.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fpt/onThiChinhThuc/HashExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fpt/onThiChinhThuc/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fpt/onThiChinhThuc/RSAEncryption.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,18 +33,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "DevlinHoang1216"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DevlinHoang1216&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/DevlinHoang1216/Intern_Traning.git",
-    "accountId": "7c2e6017-9dcf-47af-b9c7-f09efe94d75f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DevlinHoang1216/Intern_Traning.git&quot;,
+    &quot;accountId&quot;: &quot;7c2e6017-9dcf-47af-b9c7-f09efe94d75f&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -86,6 +66,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Download/Proton",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -94,6 +75,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Download\Proton\JWT-Trainning\Collections" />
+      <recent name="D:\Download\Proton\JWT-Trainning\JavaCore" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -111,7 +98,8 @@
       <option name="presentableId" value="Default" />
       <updated>1745475067980</updated>
       <workItem from="1745475069747" duration="1094000" />
-      <workItem from="1745476479751" duration="3597000" />
+      <workItem from="1745476479751" duration="4011000" />
+      <workItem from="1745551882336" duration="42000" />
     </task>
     <servers />
   </component>
